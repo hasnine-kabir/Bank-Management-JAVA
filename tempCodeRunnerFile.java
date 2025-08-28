@@ -1,1 +1,0 @@
-System.out.println("\n\t\t\t" + "\u001B[36m" + "WELCOME TO HOWITZER BANK" + "\u001B[37m");
